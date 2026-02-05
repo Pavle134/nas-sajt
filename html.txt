@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <title>Zaboravljene Srpske Žene</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fafafa;
+            margin: 0;
+            padding: 20px;
+            color: #222;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .woman {
+            margin-bottom: 25px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .woman a {
+            display: inline-block;
+            margin-top: 5px;
+            color: #0066cc;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .woman a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Zaboravljene Srpske Žene Kroz Istoriju</h1>
+
+    <div class="woman"><h2>Milunka Savić</h2><a href="https://sr.wikipedia.org/wiki/Milunka_Savi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Nadežda Petrović</h2><a href="https://sr.wikipedia.org/wiki/Nade%C5%BEda_Petrovi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Ksenija Atanasijević</h2><a href="https://sr.wikipedia.org/wiki/Ksenija_Atanasijevi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Draga Milutinović</h2><a href="https://sr.wikipedia.org/wiki/Draga_Milutinovi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Natalija Obrenović</h2><a href="https://sr.wikipedia.org/wiki/Natalija_Obrenovi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Milena Pavlović Barili</h2><a href="https://sr.wikipedia.org/wiki/Milena_Pavlovi%C4%87-Barili" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Serafima Dedinac</h2><a href="https://sr.wikipedia.org/wiki/Serafima_Dedinac" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Sofija Jovanović</h2><a href="https://sr.wikipedia.org/wiki/Sofija_Jovanovi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Draga Ljočić</h2><a href="https://sr.wikipedia.org/wiki/Draga_Ljo%C4%8Di%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Jelena Karađorđević</h2><a href="https://sr.wikipedia.org/wiki/Jelena_Kara%C4%91or%C4%91evi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Katarina Ivanović</h2><a href="https://sr.wikipedia.org/wiki/Katarina_Ivanovi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Mara Đorđević – Malik</h2><a href="https://sr.wikipedia.org/wiki/Mara_%C4%90or%C4%91evi%C4%87-Malik" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Mina Karadžić</h2><a href="https://sr.wikipedia.org/wiki/Mina_Karad%C5%BEi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Ljubica Kantardžić</h2><a href="https://sr.wikipedia.org/wiki/Ljubica_Kantard%C5%BEi%C4%87" target="_blank">Otvorite izvor</a></div>
+    <div class="woman"><h2>Savka Subotić</h2><a href="https://sr.wikipedia.org/wiki/Savka_Suboti%C4%87" target="_blank">Otvorite izvor</a></div>
+
+</div>
+</body>
+</html>
